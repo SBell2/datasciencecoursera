@@ -1,2 +1,2 @@
 # datasciencecoursera
-Courser Data Science Repo
+Coursera Data Science Repo
